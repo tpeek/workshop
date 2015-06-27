@@ -1,0 +1,368 @@
+touch test_history.txt
+ls
+history
+echo $PS1
+ps
+man csh
+cd ...
+...
+vi /etc/shells
+source /usr/local/bin/virtualenvwrapper.sh
+set -g -x WORKON_HOME ~/projects
+set -g -x WORKONHOME ~/projects
+sudo pip install virtualenvwrapper
+workonhome
+set -g -x WORKONHOME '~/projects'
+set -g -x WORKONHOME=~/projects
+fish_config 
+config_fish
+ls -rt
+export WORKON_HOME=~/.virtualenvs
+ls -lt
+ls -t
+cd /
+cd
+csh /bin/bash*
+cd bin
+csh /bin/bash
+chsh /bin/bash
+csh bin/bash
+cd Desktop
+cd desktop
+cd tyler
+la
+cd ..
+lls
+pip freeze
+pip
+cwd
+pwd
+csh /usr/bin/.bash
+csh /usr/bin/bash
+sudo apt-get install csh
+suda apt-get install csh
+workon data-structures/
+ks
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'tyler.peek@eagles.ewu.edu'
+git config --global user.name 'Tyler Peek'
+git
+echo $EDITOR
+echo 
+subl ~/.config/fish/config.fish
+lsb_release -a
+version
+ver
+v
+sudo apt-get check
+fish_update_completions
+clear
+curl -fsSL http://git.io/beJs | ruby
+sudo curl -fsSL http://git.io/beJs | ruby
+py.test
+git checkout parenthetics
+git status
+git pull
+workon data-structures
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+sudo apt-git update
+uname
+git push -u origin start
+git checkout -b start
+git checkout fa06645
+git push heroku master
+git push origin master
+git merge step4
+git checkout master
+git push -u origin step4
+python journal.py
+git commit
+git stage .
+git stage
+py.test -l
+pip install beautifulsoup4
+ps -ef | grep python
+ps -ef | grep
+git stauts
+no
+yes
+git satus
+git checkout -b step4
+python jounal.py~
+python jounal.py
+pytest
+workon learning-journal
+git push origin stack
+git commit 
+git push origin
+git commit -m "Remove temp changed"
+git add .
+git add -A
+git add -a
+pip install -r requirements.txt
+pip install requirements.txt
+pip freeze > requirements.txt
+pip install pytest
+git checkout stack
+git clone http://github.com/tlake/data-structures .
+rm -rf data-structures
+rm -rf
+cd data-structures
+git clone http://github.com/tlake/data-structures
+mkproject data-structures
+deactivate 
+heroku scale web=1
+heroku scale web=0
+heroku config:set JOURNAL_AUTH_SECRET='$2a$10$qeXu8jYiYSv83CzcOsDEsePtwg8b//frZVmpKs.o5Pzsa0TBZqbJW'
+python
+heroku config:set AUTH_PASSWORD='$2a$10$qeXu8jYiYSv83CzcOsDEsePtwg8b//frZVmpKs.o5Pzsa0TBZqbJW'
+heroku config:set AUTH_USERNAME=admin
+heroku config:set AUTH_USERNAME=cewing
+git push -u origin step3
+git  push origin master
+git merge step3
+git commit -m "added views for logging in and out"
+ls -a
+rm login.jinja~
+del login.jinja~
+cd templates
+cd tempates
+git commit -m "Added a functional input for new entries and user authentication"
+pip install cryptacular
+py.test --tb=short
+py.test --tb=line
+py.test --tb=native
+git checkout -b step3
+heroku run python
+git remote -v
+git merge stage2
+heroku open
+git merge step2
+git checkout masyer
+git push -u origin step2
+git commit -m "Added many tests and the program now interacts with the database to serve up its info."
+git add templates
+foreman start
+forman start
+len(pip)
+pip install WebTest
+mkdir templates
+git commit -m "added all()  method"
+neways
+more requirements.txt
+pip freeze requirements.txt
+pip freeze > requirments.txt
+pip install pyramid_jinja2
+git commit -m "Added some fun testing functionality."
+git add test_journal.py
+createdb test-learning-journal
+touch test_journal.py
+git checkout -b step2
+git commit -m "partially followed along in class"
+psql
+py.test -s
+subl ./
+mkproject pytest_demo
+python linked_list.py
+python python journal.py
+workon learning journal
+lsof -i :5000
+pip install pyramid_jinga2
+ipython
+foo = 'bar'
+pip install ipython
+heroku config
+env
+touch linked_list.py
+git clone https://github.com/tpeek/data-structures.git ./
+cd projects
+git clone https://github.com/tpeek/data-structures.git
+mkvirtualenv data-structures
+heroku pg:psql
+heroku addons:add heroku-postgresql
+heroku addons:add heroku-postgresql:dev
+heroku addons:create heroku-postgresql:dev
+heroku create
+git merge step1
+git push -u origin step1
+git commit -m "added heroku foreman"
+touch Procfile
+git commit -m "tables added"
+git stage journal.py
+git diff
+git commit -m "added tables"
+psql -U tyler learning-journal
+sudo -u postgres psql postgres
+workon psycopg2
+workon derp
+workon pycopg2
+mkvirtualenv --help
+./psycopg2/bin/activate
+ld
+cd..
+cd psycopg2
+./derp/bin/python -V
+which python
+source psycopg2/bin/activate
+git commit -m "Track compiled file"
+git add journal.py~
+git commit -m "Added a simple pyramid app"
+git add journal.py
+createdb learning-journal
+git commit -m "added a requirements file"
+git config --global user.name "Tyler Peek"
+git config --global user.email "tyler.peek@eagles.ewu.edu"
+git add requirements.txt
+pip install pyramid psycopg2 waitress sqlalchemy zope.sqlalchemy pyramid-tm
+which pip
+git branch
+git checkout -b step1
+tree -a -I .git .
+tree -a -I .git
+git clone https://github.com/tpeek/learning-journal.git ./
+ls -al ~/.ssh
+mkproject learning-journal
+cd python-getting-started
+git clone https://github.com/heroku/python-getting-started.git
+heroku login
+wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+psql -d psycotest
+pip install psycopg2
+sudo apt-get install libpq-dev python-dev
+mkproject psycopg2
+createdb psycotest
+pip install flake8
+pip install flask8
+pip install PDBSublimeTextSupport
+mkproject test2
+sudo pip install pyflakes
+sudo pip install pep8
+sudo pip-2.7 install flake8
+pip-2.7 install flake8
+psql tyler
+whoami
+sudo -u postgres createuser --superuser $USER
+echo $USER
+ls /etc/postgresql/9.3/main/
+ls /etc/postgresql
+ls /etc
+which psql
+ls /usr/local/etc
+sudo -u postgres psql
+postgresql -V
+postgres -V
+sudo apt-get install postgresql-contrib
+sudp apt-get install postgresql-contrib
+sudo -u postgres createdb mydb
+sudo apt-get install postgresql-dev
+sudo apt-get install postgresql
+deactivate
+workon proof
+mkproject proof
+rm -rf .bash_profile.swp
+rm .bash_profile
+vi .bash_profile
+vi .bashrc
+source .bash_profile
+touch .bash_profile
+vi .profile
+echo $SHELL
+echo
+which virtualenvwrapper.sh
+which virtualenvwrapper
+mkvirtualenv test1
+grep .profile
+touch .profile
+la -a
+workon test
+virtualenv
+mkvirtualenv
+mkproject derp2
+mkproject derp
+mkdir ~/projects
+source /user/local/bin/virtualenvwrapper.sh
+mkproject hello
+workon foo
+Yellow="\[\033[0;33m\]"
+Color_Off="\[\033[0m\]"
+GIT_PS1_SHOWUPSTREAM="auto"
+GIT_PS1_SHOWSTASHSTATE=1
+GIT_PS1_SHOWCOLORHINTS=1
+GIT_PS1_SHOWDIRTYSTATE=1
+source ~/.git-prompt.sh
+source /path/to/demoenv/bin/activate
+source /path/to/someenv/bin/activate
+$ source /path/to/someenv/bin/activate
+workon testenv
+workon
+mkvirtualenv testenv
+rm -rf demo
+pip install docutils
+source demo/bin/activate
+./demo/bin/python -V
+./demoenv/bin/python -V
+virtualenv demo
+sudo test/bin/activate
+test/bin/activate
+./test/bin/activate
+mkdir ~/.virtualenvs
+activate test
+WORKON test
+virtualenv test
+mkvirtualenv test
+PROMPT_COMMAND='__git_ps1 "" "\h:\W \u\\\$ " "[%s]\n"'
+source ~/.git-complete.bash
+vi ~/.git-completion.bash
+source ~/.git-completion.bash
+vi git_completion.sh 
+open git_completion.sh 
+touch git_completion.sh
+curl --help
+curl
+curl https://raw.github.com/git/git/v2.4.4/contrib/completion/git-completion.bash -o .git-completion.bash
+git --version
+sudo apt-get install git
+sudo add-apt-repository ppa:git-core/ppa -y
+brew install git
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+pip install git
+curl https://raw.github.com/git/git/v1.9.1/contrib/completion/git-completion.bash -o .git-completion.bash
+git -V
+activate foo
+WORKON foo
+mkproject foo
+mrdir ~/projects
+workon wrapperdemo
+mkvirtualenv wrapperdemo
+ls ~/.virtualenvs
+ls ~/
+which virtualenvwapper.sh
+sudo pip install virtualencwrapper
+rm -rf demoenv/
+pip install requests
+source demoenv/bin/activate
+demoenv/bin/python -V
+virtualenv demoenv
+virtualenv --help
+python --version
+git -v
+sudo pip install virtualenv
+make -v
+gcc -v
+sudo apt-get install build-essential
+sudo apt-get upgrade
+sudo aptitude install build-essential
+python -v
+sudo apt-get install ipython
+sudo apt-get install python-ipython
+sudo apt-get install python-pip
+sudo apt-get install pip
+google-chrome-stable
