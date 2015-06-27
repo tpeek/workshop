@@ -30,6 +30,7 @@ csh bin/bash
 cd Desktop
 cd desktop
 cd tyler
+derp
 la
 cd ..
 lls
